@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/management-consulting.gif",
+      "title": "Account Management",
+      "description": "Effortlessly create and manage accounts on our platform, tailored for entrepreneurs showcasing ideas or investors exploring opportunities, ensuring smooth and efficient interactions."
+    },
+    {
+      "id": "2",
+      "src": "./img/organigram.gif",
+      "title": " Networking",
+      "description": "Unlock networking capabilities on our platform, facilitating meaningful connections, idea exchange, and seamless collaboration opportunities, driving impactful business growth."
+    },
+    {
+      "id": "3",
+      "src": "./img/hired.gif",
+      "title": "Investing",
+      "description": "Explore investment opportunities through our platform, including grants and investor pitches designed to help entrepreneurs secure the capital they need, fostering financial growth"
+    },
+    {
+      "id": "4",
+      "src": "./img/success.gif",
+      "title": "Success Story Sharing",
+      "description": "Foster collaboration, learning, and growth by sharing success stories, testimonials, and case studies on our platform, helping users connect and achieve their goals through shared experiences."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/img22.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Thrilled with the platform! As an entrepreneur, I've found incredible opportunities and connected with supportive investors. The user-friendly interface makes navigation easy. Highly recommend for entrepreneurial growth and investment.",
+      "author_name": "Dianne Russel",
+      "author_designation": "Entrepreneur"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "A valuable resource for investors! The platform offers innovative projects and entrepreneurial talent. I've enjoyed discovering ventures and collaborating with passionate entrepreneurs. A must-visit for future investments.",
+      "author_name": "Kristin Watson",
+      "author_designation": "Investor"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "A fantastic platform for networking and finding new opportunities. The interface is intuitive, and community engagement is excellent, fostering meaningful connections and collaborations. Highly satisfied with my enriching experience!",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "Entrepreneur"
+    }
+  ]
+}
