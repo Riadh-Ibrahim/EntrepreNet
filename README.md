@@ -29,10 +29,12 @@ To get started with EntrepreNet locally, follow these steps:
 5. Run the frontend server using `npm start` in the `client` directory.
 6. Access the application at `http://localhost:3000`.
 
-## Contributing
+Here's an overviw of the first user-side pages :
+![Screenshot 2024-06-12 165322](https://github.com/Riadh-Ibrahim/EntrepreNet/assets/110717872/40186333-9f75-4101-bf4f-04b821752789)
+![Screenshot 2024-06-12 165251](https://github.com/Riadh-Ibrahim/EntrepreNet/assets/110717872/c0e546c1-3e8e-4853-862c-6cd9939a40ec)
+![Screenshot 2024-06-12 165229](https://github.com/Riadh-Ibrahim/EntrepreNet/assets/110717872/b2c54555-5a08-40bc-8bd8-e5925f9f4d6a)
+![Screenshot 2024-06-12 165221](https://github.com/Riadh-Ibrahim/EntrepreNet/assets/110717872/fba724b3-3cda-48cc-b204-7287d019d09d)
+![Screenshot 2024-06-12 165209](https://github.com/Riadh-Ibrahim/EntrepreNet/assets/110717872/38e91700-a296-492f-8d07-957b5b9a28d2)
+![Screenshot 2024-06-12 165139](https://github.com/Riadh-Ibrahim/EntrepreNet/assets/110717872/97cc205b-20aa-4692-bea0-e046bd6eb528)
 
-Contributions are welcome! If you'd like to contribute to EntrepreNet, please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
